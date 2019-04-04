@@ -2,5 +2,6 @@
 	"qq_group_num": "959462401",
 	"server_last_version_code": "1000",
 	"update_tips": "1.fix bugs\r\n2.开发新功能",
-	"update_apk_url": "https://dl-xda.xposed.info/modules/com.wxapp.moment_v1_bb1955.apk"
+	"update_apk_url": "https://dl-xda.xposed.info/modules/com.wxapp.moment_v1_bb1955.apk",
+	"apk_download_type": "1"
 }
