@@ -4,6 +4,6 @@
 	"update_tips": "1.修复Native层过检测",
 	"update_apk_url": "https://dl-xda.xposed.info/modules/com.wxapp.moment_v1_bb1955.apk",
 	"apk_download_type": "1",
-	"app_disable": "true",
+	"app_disable": "false",
 	"buy_web_addr": "http://www.100fk.cn/shops/lMuyf3.html"
 }
