@@ -1,6 +1,6 @@
 {
 	"qq_group_num": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DWv5wAkVYqZriDgGq5X3FpY5NLvsUcwCq",
-	"server_last_version_code": "1000",
+	"server_last_version_code": "1002",
 	"update_tips": "1.修复Native层过检测\r\n2.增加更新检测",
 	"update_apk_url": "https://raw.githubusercontent.com/fdafeageage/fajeigna/master/202.apk",
 	"apk_download_type": "1",
