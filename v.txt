@@ -9,5 +9,5 @@
 	"apk_download_type": "1",
 	"app_disable": "false",
 	"buy_web_addr": "http://www.100fk.cn/shops/lMuyf3.html",
-	"must_update_min_version": "10003"
+	"must_update_min_version": "2"
 }
