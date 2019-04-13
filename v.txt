@@ -4,7 +4,7 @@
 	"is_qq_group_show": "0",
 	"is_qq_num_show": "1",
 	"server_last_version_code": "1002",
-	"update_tips": "1.修复Native层过检测\r\n2.增加更新检测",
+	"update_tips": "1.修复陌陌等app卡顿的问题,大幅提升了稳定性和流畅性\r\n2.增加几项模拟检测字段(Java&Native均可绕过)\r\n3.修复了QQ&微信检查问题",
 	"update_apk_url": "https://raw.githubusercontent.com/fdafeageage/fajeigna/master/202.apk",
 	"apk_download_type": "1",
 	"app_disable": "false",
