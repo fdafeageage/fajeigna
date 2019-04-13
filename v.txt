@@ -1,8 +1,8 @@
 {
 	"qq_group_num": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DWv5wAkVYqZriDgGq5X3FpY5NLvsUcwCq",
 	"qq_num": "2924985605",
-	"is_qq_group_show": "true",
-	"is_qq_num_show": "false",
+	"is_qq_group_show": "false",
+	"is_qq_num_show": "true",
 	"server_last_version_code": "10003",
 	"update_tips": "1.修复陌陌等app卡顿的问题,大幅提升了稳定性和流畅性\r\n\r\n2.增加几项模拟检测字段(Java&Native均可绕过)\r\n\r\n3.修复了QQ&微信检查问题",
 	"update_apk_url": "https://raw.githubusercontent.com/fdafeageage/fajeigna/master/202.apk",
