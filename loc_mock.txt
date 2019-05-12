@@ -3,7 +3,7 @@
 	"qq_num": "2924985605",
 	"is_qq_group_show": "false",
 	"is_qq_num_show": "true",
-	"server_last_version_code": "10005",
+	"server_last_version_code": "10000",
 	"update_tips": "1.新版本2.0.5发布啦!\r\n2.适配某些模拟器无法运行的问题\r\n3.修改部分机型hook问题",
 	"update_apk_url": "https://raw.githubusercontent.com/fdafeageage/fajeigna/master/202.apk",
 	"apk_download_type": "1",
