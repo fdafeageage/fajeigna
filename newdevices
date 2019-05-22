@@ -15,17 +15,17 @@
 	"jiaocheng_open_mock_url": "https://jingyan.baidu.com/article/3c48dd34d514dbe10be358bf.html",
 	"priceinfos": [{
 			"days": "1",
-			"desc": "1天",
+			"desc": "1天/6元",
 			"price": "6"
 		},
 		{
 			"days": "7",
-			"desc": "7天",
-			"price": "30"
+			"desc": "7天36元(优惠6元)",
+			"price": "36"
 		},
 		{
 			"days": "30",
-			"desc": "30天",
+			"desc": "30天120元(优惠60元)",
 			"price": "120"
 		}
 	]
