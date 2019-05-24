@@ -10,7 +10,7 @@
 	"app_disable": "false",
 	"buy_web_addr": "http://www.100fk.cn/shops/lMuyf3.html",
 	"must_update_min_version": "2",
-	"sandbox_version_url": "http://www.100fk.cn/shops/lMuyf3.html",
+	"sandbox_version_url": "https://www.pgyer.com/FZA8",
 	"jiaocheng_open_dev_url": "https://jingyan.baidu.com/article/ea24bc39c99e8fda63b3316f.html",
 	"jiaocheng_open_mock_url": "https://jingyan.baidu.com/article/3c48dd34d514dbe10be358bf.html",
 	"priceinfos": [{
