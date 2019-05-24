@@ -16,17 +16,17 @@
 	"priceinfos": [{
 			"days": "1",
 			"desc": "1天6元",
-			"price": "1"
+			"price": "6"
 		},
 		{
 			"days": "7",
 			"desc": "7天36元(已优惠1天)",
-			"price": "2"
+			"price": "36"
 		},
 		{
 			"days": "30",
 			"desc": "30天120元(已优惠10天)",
-			"price": "3"
+			"price": "120"
 		}
 	]
 }
