@@ -12,18 +12,18 @@
 	"must_update_min_version": "2"
 	"priceinfos": [{
 			"days": "1",
-			"desc": "1天6元",
-			"price": "1"
+			"desc": "1天8元",
+			"price": "8"
 		},
 		{
 			"days": "7",
-			"desc": "7天36元(优惠6元)",
-			"price": "2"
+			"desc": "7天48元(已优惠1天)",
+			"price": "48"
 		},
 		{
 			"days": "30",
-			"desc": "30天120元(优惠60元)",
-			"price": "3"
+			"desc": "30天160元(已优惠10天)",
+			"price": "160"
 		}
-	]
+]
 }
