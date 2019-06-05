@@ -3,11 +3,27 @@
 	"qq_num": "2924985605",
 	"is_qq_group_show": "false",
 	"is_qq_num_show": "true",
-	"server_last_version_code": "10005",
-	"update_tips": "1.新版本2.0.5发布啦!\r\n2.适配某些模拟器无法运行的问题\r\n3.修改部分机型hook问题",
-	"update_apk_url": "https://raw.githubusercontent.com/fdafeageage/fajeigna/master/202.apk",
-	"apk_download_type": "1",
+	"server_last_version_code": "30001",
+	"update_tips": "1.新版本3.0.1发布啦!\r\n2.修复部分手机不生效的问题\r\n3.提高了很大的稳定性",
+	"update_apk_url": "https://www.pgyer.com/FZA8",
+	"apk_download_type": "2",
 	"app_disable": "false",
 	"buy_web_addr": "http://www.100fk.cn/shops/lMuyf3.html",
-	"must_update_min_version": "2"
+	"must_update_min_version": "30001",
+	"priceinfos": [{
+			"days": "1",
+			"desc": "1天6元",
+			"price": "6"
+		},
+		{
+			"days": "7",
+			"desc": "7天36元(已优惠1天)",
+			"price": "36"
+		},
+		{
+			"days": "30",
+			"desc": "30天120元(已优惠10天)",
+			"price": "120"
+		}
+]
 }
