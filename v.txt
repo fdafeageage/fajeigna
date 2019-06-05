@@ -9,7 +9,7 @@
 	"apk_download_type": "2",
 	"app_disable": "false",
 	"buy_web_addr": "http://www.100fk.cn/shops/lMuyf3.html",
-	"must_update_min_version": "10005",
+	"must_update_min_version": "10006",
 	"priceinfos": [{
 			"days": "1",
 			"desc": "1天8元",
