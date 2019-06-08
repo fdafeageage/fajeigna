@@ -1,0 +1,29 @@
+{
+	"qq_group_num": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DWv5wAkVYqZriDgGq5X3FpY5NLvsUcwCq",
+	"qq_num": "2924985605",
+	"is_qq_group_show": "false",
+	"is_qq_num_show": "true",
+	"server_last_version_code": "10000",
+	"update_tips": "1.新版本2.0.6发布啦!\r\n2.解决陌陌提示问题\r\n3.增加部分参数随机产生\r\n4.有任何问题欢迎加客服QQ反馈!",
+	"update_apk_url": "https://www.pgyer.com/PdVE",
+	"apk_download_type": "2",
+	"app_disable": "false",
+	"buy_web_addr": "http://www.100fk.cn/shops/lMuyf3.html",
+	"must_update_min_version": "10006",
+	"priceinfos": [{
+			"days": "1",
+			"desc": "1天8元",
+			"price": "8"
+		},
+		{
+			"days": "7",
+			"desc": "7天48元(已优惠1天)",
+			"price": "48"
+		},
+		{
+			"days": "30",
+			"desc": "30天160元(已优惠10天)",
+			"price": "160"
+		}
+	]
+}
