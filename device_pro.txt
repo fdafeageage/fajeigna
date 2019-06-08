@@ -5,10 +5,10 @@
 	"is_qq_num_show": "true",
 	"server_last_version_code": "20009",
 	"update_tips": "1.新版本2.0.9发布啦!\r\n2.解决陌陌提示问题\r\n3.增加部分参数随机产生\r\n4.有任何问题欢迎加客服QQ反馈!",
-	"update_apk_url": "https://www.pgyer.com/PdVE",
+	"update_apk_url": "http://www.pgyer.com/RK6i",
 	"apk_download_type": "2",
 	"app_disable": "false",
-	"buy_web_addr": "http://www.pgyer.com/RK6i",
+	"buy_web_addr": "http://www.100fk.cn/shops/lMuyf3.html",
 	"must_update_min_version": "10006",
 	"priceinfos": [{
 			"days": "1",
