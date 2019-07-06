@@ -4,7 +4,7 @@
 	"is_qq_group_show": "false",
 	"is_qq_num_show": "true",
 	"server_last_version_code": "910000",
-	"update_tips": "1.停止更新，请勿使用!",
+	"update_tips": "1.已停止更新，请勿使用!",
 	"update_apk_url": "www.baidu.com",
 	"apk_download_type": "1",
 	"app_disable": "false",
