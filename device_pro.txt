@@ -1,10 +1,10 @@
 {
 	"qq_group_num": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DWv5wAkVYqZriDgGq5X3FpY5NLvsUcwCq",
-	"qq_num": "2924985605",
+	"qq_num": "123",
 	"is_qq_group_show": "false",
-	"is_qq_num_show": "true",
+	"is_qq_num_show": "false",
 	"server_last_version_code": "920009",
-	"update_tips": "1.停止更新!",
+	"update_tips": "1.停止更新，请勿使用!",
 	"update_apk_url": "www.baidu.com",
 	"apk_download_type": "2",
 	"app_disable": "false",
